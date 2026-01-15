@@ -54,24 +54,22 @@ Real value in bitcoin mining comes from visible effort, investment, and producti
 
 ---
 
-## 👥 Leadership Team
+## 👥 Leadership
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 🎩 Elvis Nuno
+### 🎩 [Elvis Nuno](https://github.com/enuno)
 **Chief Executive Officer**
 
 Technical architect and open-source advocate leading TerraHash Stack development and cryptocurrency services. Elvis champions our commitment to open-source mining technology and community collaboration.
 
-</td>
-<td align="center" width="50%">
-
-### 🚀 Jacob Dobie
-**Chief Operating Officer**
-
-Operational excellence expert focused on infrastructure deployment and optimizing mining facility performance. Jacob oversees all day-to-day operations, ensuring world-class service delivery and process optimization.
+💼 [LinkedIn](https://linkedin.com/in/elvis-nuno-5635914)
+🌐 [Portfolio Website](https://enuno.github.io/DynamicCareerCanvas/)
+📧 [Email Me](mailto:publicprofileresumec.profound075@slmail.me)
+🐙 [GitHub](https://github.com/enuno)
+🐦 [Twitter](https://twitter.com/NunoElvis)
 
 </td>
 </tr>
