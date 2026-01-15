@@ -203,6 +203,21 @@ The TerraHash Stack product line is sold and supported exclusively by **[Ryno Cr
 
 ---
 
+## 💰 Support HashGrid Networks
+
+Support our mission to advance sustainable Bitcoin mining infrastructure through crypto donations:
+
+### Donation Addresses
+
+**Bitcoin (BTC):**  
+`bc1q83u55fez26zhzayu9hyjsv59mglafvtfry0an3`
+
+**Ethereum (ETH):**  
+`0x84fa1567B010b1F5354973AaB1097548c17799e6`
+
+**Solana (SOL):**  
+`GtEJxY74QFitPK1yJDXx2ZhCatg2ZA9wKvrQasVRRfan`
+
 ### ⚡ *Redefining Bitcoin mining through innovation, sustainability, and technological excellence.*
 
 **© 2026 HashGrid Networks. All rights reserved.**
